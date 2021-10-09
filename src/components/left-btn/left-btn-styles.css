@@ -1,0 +1,18 @@
+.left{
+    position: absolute;
+    left: 5%;
+    top: 33%;
+    font-size: 200%;
+    color:#6ECB63 ;
+    cursor: pointer;
+    opacity: 50%;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+.left:hover{
+    opacity: 1;
+}

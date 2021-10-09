@@ -1,0 +1,18 @@
+.right{
+    position: absolute;
+    right: 5%;
+    font-size: 200%;
+    color:#6ECB63 ;
+    cursor: pointer;
+    top: 33%;
+    opacity: 50%;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+.right:hover{
+    opacity: 1;
+}
